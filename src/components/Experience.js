@@ -4,7 +4,7 @@ import { FaRegBuilding } from "react-icons/fa";
 const workExp = [
   {
     id: 1,
-    position: "Software Engineer Intern",
+    position: "Software Engineer",
     companyName: "Rapid Research",
     from: "Nov 2022",
     to: "Present",
@@ -19,7 +19,7 @@ const workExp = [
   },
   {
     id: 2,
-    position: "Software Engineer Intern",
+    position: "Software Engineer",
     companyName: "Labs Afrika",
     from: "Aug 2021",
     to: "Oct 2022",
