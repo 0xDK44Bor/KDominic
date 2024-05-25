@@ -36,13 +36,6 @@ const Navbar = () => {
         >
           <AiOutlineTwitter />
         </a>
-	  <a 
-	  href="https://mastodon.social/@KDominicBor"
-	  target="_blank"
-	  className={commonClass}
-	  >
-	  <AiOutlineMastadon />
-	  </a>
         <a
           href="mailto:dominicbor44@gmail.com"
           target="_blank"
