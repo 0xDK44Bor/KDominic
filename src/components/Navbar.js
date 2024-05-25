@@ -20,7 +20,7 @@ const Navbar = () => {
           target="_blank"
           className={commonClass}
         >
-          <AiFillGithub />
+          <AiFillGithub /o>
         </a>
         <a
           href="https://www.linkedin.com/in/KDominicBor"
@@ -36,6 +36,13 @@ const Navbar = () => {
         >
           <AiOutlineTwitter />
         </a>
+	  <a 
+	  href="https://mastodon.social/@KDominicBor"
+	  target="_blank"
+	  className={commonClass}
+	  >
+	  <AiOutlineMastadon />
+	  </a>
         <a
           href="mailto:dominicbor44@gmail.com"
           target="_blank"
