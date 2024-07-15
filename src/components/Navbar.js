@@ -16,28 +16,28 @@ const Navbar = () => {
 
       <div className="flex space-x-5 items-center text-2xl">
         <a
-          href="https://www.github.com/KDominicBor"
+          href="https://www.github.com/0xDK44Bor"
           target="_blank"
           className={commonClass}
         >
-          <AiFillGithub /o>
+          <AiFillGithub />
         </a>
         <a
-          href="https://www.linkedin.com/in/KDominicBor"
+          href="https://www.linkedin.com/in/0xDK44Bor"
           target="_blank"
           className={commonClass}
         >
           <AiFillLinkedin />
         </a>
         <a
-          href="https://www.twitter.com/KDominicBor"
+          href="https://www.twitter.com/0xDK44Bor"
           target="_blank"
           className={commonClass}
         >
           <AiOutlineTwitter />
         </a>
         <a
-          href="mailto:dominicbor44@gmail.com"
+          href="mailto:dominicbor44@proton.me"
           target="_blank"
           className={commonClass}
         >

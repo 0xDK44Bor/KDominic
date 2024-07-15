@@ -18,11 +18,17 @@
   background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 .cl-div {
   background: rgba(189, 189, 189, 0.621);
-  backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
+  -moz-backdrop-filter: blur(4px);
+  -moz-backdrop-filter: blur(4px); /* Vendor prefix for Firefox */
+  -moz-filter: blur(4px); /* Vendor prefix for Firefox */
+  filter: blur(4px); /* Fallback for Firefox and Firefox for Android */
+  -webkit-backdrop-filter: blur(4px); /* Vendor prefix for Firefox */
+  backdrop-filter: blur(4px); /* Vendor prefix for Firefox */
 }
 
 /* hover */

@@ -29,7 +29,7 @@ const About = () => {
 	  <p className="mb-6 font-medium text-gray-100 text-xl">
         Currently i'm available to participate in interesting in designing trading systems & Web Applications, schedule a
         <a
-          href="https://calendly.com/KDominicbor/30min"
+          href="https://calendly.com/0xDK44Bor/30min"
           target="_blank"
           className="underline txt-green ml-1" rel="noreferrer"
         >

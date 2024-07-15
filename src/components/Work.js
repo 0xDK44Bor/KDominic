@@ -6,7 +6,7 @@ const Details = [
     title: "KadiPay",
     description:
       "KadiPay is your gateway to effortless cryptocurrency-to-fiat conversions, with a primary focus on USD and Kes.",
-    github: "https://github.com/sirbor/KadiPay",
+    github: "https://github.com/0xDK44Bor/KadiPay",
     demo: "https://github.com/sirbor/KadiPay",
     tech: ["Typescript", "Solidity", "Javascript", "HTML", "CSS"],
   },
@@ -14,32 +14,32 @@ const Details = [
     title: "Weather App",
     description:
       "A weather App to check on weather forecast in any location using either celcius or Fahrenheit",
-    github: "https://github.com/sirbor/Weather-app",
-    demo: "https://weather44-app.netlify.app",
+    github: "https://github.com/0xDK44Bor/Weather-app",
+    demo: "",
     tech: ["HTML","CSS", "Javascript"],
   },
   {
     title: "Bus Reservation System",
     description:
       "This is a simple Bus Reservation System programmed using Cpp",
-    github: "https://github.com/sirbor/Bus-Reservation-System",
-    demo: "https://github.com/sirbor/Bus-Reservation-System#readme",
+    github: "https://github.com/0xDK44Bor/Bus-Reservation-System",
+    demo: "",
     tech: ["C++"],
   },
   {
     title: "Rental Management System",
     description:
       "The Rental Management System is a web application for managing rental properties.",
-    github: "https://github.com/sirbor/Rental_Management",
-    demo: "https://github.com/sirbor/Rental_Management",
+    github: "https://github.com/0xDK44Bor/Rental_Management",
+    demo: "",
     tech: ["HTML","CSS","PHP","MySQL"]
   },
   {
     title: "Tubonge",
     description:
       "A Full Stack Chat Application using React and Firebase. Some of the features include Features Group Chats Google",
-    github: "https://github.com/sirbor/Tubonge",
-    demo: "https://github.com/sirbor/Tubonge",
+    github: "https://github.com/0xDK44Bor/Tubonge",
+    demo: "",
     tech: ["Typescript", "HTML", "React", "Firebase"],
   },
   {
@@ -47,7 +47,7 @@ const Details = [
     description:
       "Creates a schedule for all users.",
     github: "https://github.com/sirbor/school-scheduler",
-    demo: "https://github.com/sirbor/school-scheduler#readme",
+    demo: "",
     tech: ["HTML","CSS", "Javascript", "Java", "My SQL"],
   },
 ];
@@ -97,7 +97,7 @@ const Work = () => {
       <p className="text-gray-300 mt-5">
         My Reads {" "}
         <a
-          href="https://www.readthistwice.com/sirbor/my-reads"
+          href="https://www.readthistwice.com/0xDK44Bor/my-reads"
           target="_blank"
           className="txt-green underline font-medium px-1"
         >
